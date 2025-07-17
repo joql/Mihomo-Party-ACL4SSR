@@ -40,6 +40,10 @@ proxy-groups:
     type: select
     include-all: true
     filter: "美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States|ATL|BUF|DFW|EWR|IAD|LAX|MCI|MIA|ORD|PHX|PDX|SEA|SJC"
+  - name: 家宽
+    type: select
+    include-all: true
+    filter: "家宽|住宅|宽带|Residential|Home"
   - name: 🎯 全球直连
     type: select
     proxies:
